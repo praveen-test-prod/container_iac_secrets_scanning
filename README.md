@@ -25,6 +25,7 @@ If the parameter `fail_build` is set to `true`, the action will fail the step up
 ![](/media/fail-build.png)  
   
 The full output of the action can still be reviewed on the action run overview and on the command line output.  
+
  ![](/media/action-overview.png)  
  ![](/media/command-line-output.png)  
    
